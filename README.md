@@ -55,7 +55,7 @@ I am a student at Tadulako university <img src="https://media.giphy.com/media/WU
     </div>
     <div>
         <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=izon-masuara&layout=compact&theme=vision-friendly-dark" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=izon-masuara&layout=compact" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izon-masuara" />
     </picture>
     </div>
