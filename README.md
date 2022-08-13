@@ -49,14 +49,14 @@ I am a student at Tadulako university <img src="https://media.giphy.com/media/WU
 <div align="center">
     <div style="padding-bottom:20px">
          <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Wppq&theme=default&ring=32ADDD&background=C4CCDD&border=FFFFFF&stroke=000000&fire=E30000&currStreakNum=000000&sideNums=D04BDD&currStreakLabel=DD2727&sideLabels=EE7B00&dates=000000" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wppq&theme=default&ring=32ADDD&background=C4CCDD&border=FFFFFF&stroke=000000&fire=E30000&currStreakNum=000000&sideNums=D04BDD&currStreakLabel=DD2727&sideLabels=EE7B00&dates=000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=izon-masuara&theme=default&ring=32ADDD&background=C4CCDD&border=FFFFFF&stroke=000000&fire=E30000&currStreakNum=000000&sideNums=D04BDD&currStreakLabel=DD2727&sideLabels=EE7B00&dates=000000" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=izon-masuara&theme=default&ring=32ADDD&background=C4CCDD&border=FFFFFF&stroke=000000&fire=E30000&currStreakNum=000000&sideNums=D04BDD&currStreakLabel=DD2727&sideLabels=EE7B00&dates=000000" />
     </picture>
     </div>
     <div>
         <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wppq&layout=compact&theme=vision-friendly-dark" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wppq" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izon-masuara" />
     </picture>
     </div>
 </div>
