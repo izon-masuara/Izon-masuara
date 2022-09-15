@@ -40,6 +40,8 @@ I am a student at Tadulako university <img src="https://media.giphy.com/media/WU
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="60" height="60"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="60" height="60"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
 </div>
 
 ---
