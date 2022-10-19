@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-  <img src="https://c.tenor.com/N-fJ0Azh_ykAAAAM/cat-computer.gif" width="150"/>
-  <div id="badges">
-</div>
 <h1>
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
