@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ---
 ### About Me :
-I am a student at Tadulako university <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a final student at Tadulako university <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - Motivation : I want to be a software developer
 
 ---
